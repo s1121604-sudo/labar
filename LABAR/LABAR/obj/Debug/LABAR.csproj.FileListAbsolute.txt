@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LABAR\LABAR\bin\Debug\LABAR.exe.config
+C:\Users\user\Desktop\LABAR\LABAR\bin\Debug\LABAR.exe
+C:\Users\user\Desktop\LABAR\LABAR\bin\Debug\LABAR.pdb
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.Form1.resources
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.Properties.Resources.resources
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.csproj.GenerateResource.cache
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.exe
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.pdb
+C:\Users\user\Desktop\LABAR\LABAR\obj\Debug\LABAR.exe.config
